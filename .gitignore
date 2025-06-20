@@ -1,0 +1,15 @@
+# Flutter/Dart specific
+.dart_tool/
+.packages
+.pub/
+build/
+.idea/
+android/.gradle/
+*.apk
+*.aab
+*.dill
+*.lock
+*.iml
+
+# VSCode
+.vscode/
