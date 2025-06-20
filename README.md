@@ -21,7 +21,7 @@ Make your shared living experience stress-free and harmonious.
 Download RoomMate today and never lose track of shared expenses again! 👫👬💼
 
 
-#### Portfilio - https://www.tanishqparmar.site
+#### Portfilio - <a href='tanishqparmar.site' target=_blank >https://www.tanishqparmar.site</a>
 #### APK download link - https://www.tanishqparmar.site/roommate
 
 <image src='https://raw.githubusercontent.com/tanishqparmar-me/RoomMates/refs/heads/main/screenshots/1.jpeg' width='300'>
