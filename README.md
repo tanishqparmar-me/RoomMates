@@ -1,3 +1,4 @@
+<image src='https://tanishqparmar.site/static/img/roommate.jpg' width='300'>
 # 🏡 RoomMate - Simplify Shared Living!
 ## RoomMate is your ultimate companion for managing shared expenses and responsibilities with roommates. Whether you're living in a hostel, PG, or shared apartment, RoomMate brings clarity and convenience to financial tracking. Gone are 
 ### the days of confusion over “who paid what” — this smart tool keeps everything transparent, organized, and fair. 💸✨
@@ -22,3 +23,6 @@ Download RoomMate today and never lose track of shared expenses again! 👫👬�
 #### Portfilio - https://www.tanishqparmar.site
 #### APK download link - https://www.tanishqparmar.site/roommate
 
+<image src='https://raw.githubusercontent.com/tanishqparmar-me/RoomMates/refs/heads/main/screenshots/1.jpeg' width='300'>
+<image src='https://raw.githubusercontent.com/tanishqparmar-me/RoomMates/refs/heads/main/screenshots/2.jpeg' width='300'>
+<image src='https://raw.githubusercontent.com/tanishqparmar-me/RoomMates/refs/heads/main/screenshots/3.jpeg' width='300'>
