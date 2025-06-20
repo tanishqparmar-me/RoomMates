@@ -1,4 +1,5 @@
 <image src='https://tanishqparmar.site/static/img/roommate.jpg' width='400'>
+  
 # 🏡 RoomMate - Simplify Shared Living!
 ## RoomMate is your ultimate companion for managing shared expenses and responsibilities with roommates. Whether you're living in a hostel, PG, or shared apartment, RoomMate brings clarity and convenience to financial tracking. Gone are 
 ### the days of confusion over “who paid what” — this smart tool keeps everything transparent, organized, and fair. 💸✨
